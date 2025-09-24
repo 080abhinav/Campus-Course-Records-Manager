@@ -10,3 +10,6 @@
 .settings/
 bin/
 tmp/
+
+# Runtime generated folders
+/backups/
